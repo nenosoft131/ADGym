@@ -1,4 +1,4 @@
-# ADGym :running_man: :Design Choices for Deep Anomaly Detection
+#ADGym :running_man: :Design Choices for Deep Anomaly Detection
 
 ADGym performs large **benchmark** and automatical selection of AD design choices,
 where AD design dimensions/choices are acquired (listed in the following Table) by decoupling the standard AD research pipeline:
